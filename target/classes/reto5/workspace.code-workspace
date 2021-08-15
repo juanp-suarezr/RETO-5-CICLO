@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\.."
+		},
+		{
+			"name": "RETO-5-CICLO",
+			"path": "..\\..\\..\\..\\..\\..\\Documents\\RETO-5-CICLO"
+		},
+		{
+			"name": "RETO-5-CICLO-1",
+			"path": "..\\..\\..\\..\\..\\..\\Documents\\RETO-5-CICLO-1"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive",
+		"java.dependency.syncWithFolderExplorer": false
+	}
+}
